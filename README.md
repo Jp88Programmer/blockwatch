@@ -1,6 +1,12 @@
 # BlockWatch
 BlockWatch is a blockchain explorer application similar to Etherscan, allowing users to view Ethereum blockchain transactions in real-time. Users can search for specific transactions using transaction hashes and view detailed information including value, transaction fee, gas fees, and gas limit for any transaction or block.
 
+## Main Page 
+![image](https://github.com/Jp88Programmer/blockwatch/assets/88284160/4d140e2c-21ff-443e-b476-b0a5faaaec61)
+
+## Specific Transaction block
+![image](https://github.com/Jp88Programmer/blockwatch/assets/88284160/e310631e-e69b-488f-898e-45683adc2290)
+
 ## Features
 Real-time Transaction Monitoring: View the latest transactions on the Ethereum blockchain in real-time.
 
